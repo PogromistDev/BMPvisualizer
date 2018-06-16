@@ -1,0 +1,10 @@
+C:\Projects\BMPVisualizer\bin\Debug\BMPVisualizer.exe.config
+C:\Projects\BMPVisualizer\bin\Debug\BMPVisualizer.exe
+C:\Projects\BMPVisualizer\bin\Debug\BMPVisualizer.pdb
+C:\Projects\BMPVisualizer\obj\Debug\BMPVisualizer.Properties.Resources.resources
+C:\Projects\BMPVisualizer\obj\Debug\BMPVisualizer.csproj.GenerateResource.Cache
+C:\Projects\BMPVisualizer\obj\Debug\BMPVisualizer.csproj.CoreCompileInputs.cache
+C:\Projects\BMPVisualizer\obj\Debug\BMPVisualizer.exe
+C:\Projects\BMPVisualizer\obj\Debug\BMPVisualizer.pdb
+C:\Projects\BMPVisualizer\obj\Debug\BMPVisualizer.Form1.resources
+C:\Projects\BMPVisualizer\obj\Debug\BMPVisualizer.csprojResolveAssemblyReference.cache
